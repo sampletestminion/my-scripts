@@ -15,6 +15,8 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  *
+ * BRANCH=no-readme-in-root
+ *
  */
 
 package com.vmware.sample;

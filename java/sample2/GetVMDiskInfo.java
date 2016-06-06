@@ -18,6 +18,8 @@
  * Originally from a perl script in William Lam's VirtuallyGhetto blog.  More info:
  * https://github.com/lamw/vghetto-scripts/blob/master/perl/getVMDiskInfo.pl
  * http://www.virtuallyghetto.com/
+ *
+ * BRANCH=no-readme-in-root
  */
 
 package com.vmware.sample;

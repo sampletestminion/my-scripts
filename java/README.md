@@ -5,3 +5,4 @@ These scripts are in fact used for testing Sample Exchange only.  There is reall
 
 This particular README is for ALL Java samples
 LOCATION=/java
+BRANCH=no-readme-in-root
